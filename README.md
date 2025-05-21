@@ -1,2 +1,2 @@
 # POSHAK
-Building e-commerce website using HTML, CSS.
+Builded e-commerce website using HTML, CSS.
